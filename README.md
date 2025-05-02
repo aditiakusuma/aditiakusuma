@@ -1,7 +1,7 @@
 <!-- Profile README Template -->
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Role] from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm Aditia Kusuma</h1>
+<h3 align="center">A passionate Fullstack Developer from Indonesia</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+coding+and+open+source!;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
