@@ -18,10 +18,22 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditiakusuma&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditiakusuma&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiakusuma&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,tailwind,bootstrap,react,nextjs,nodejs,express,adonis,laravel,firebase,mysql,mongodb,git,github,linux,vscode,redis" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,astro,tailwind,bootstrap,react,nextjs,nodejs,express,adonis,laravel,firebase,mysql,mongodb,git,github,linux,vscode,redis" />
 </p>
 
 ---
