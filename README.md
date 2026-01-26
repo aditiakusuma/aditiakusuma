@@ -9,9 +9,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[POS Project]**
-- 🌱 I’m currently learning **[Nuxt JS]**
-- 💬 Ask me about **[Vue JS]**
+- 🔭 I’m currently working on **[Payment Gateway Project]**
+- 🌱 I’m currently learning **[React TS]**
+- 💬 Ask me about **[Vue/React TS]**
 - 📫 How to reach me: **[aditiakusuma800@gmail.com]**
 
 ---
